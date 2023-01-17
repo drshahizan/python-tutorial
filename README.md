@@ -16,6 +16,7 @@ The information on this Github is part of the materials for the subject High Per
 - [Running Django on Google Colab](https://medium.com/@arsindoliya/running-django-on-google-colab-ea9392cdee86)
 - [Django tutorial](https://www.w3schools.com/django/index.php)
 - [How to Embed Interactive Python Visualizations on Your Website with Python and Matplotlib](https://www.freecodecamp.org/news/how-to-embed-interactive-python-visualizations-on-your-website-with-python-and-matplotlib/)
+- [9 Best Django Website Templates 2023](https://adminlte.io/blog/django-website-templates/)
 - [College Management System using Django – Python Project](https://www.geeksforgeeks.org/college-management-system-using-django-python-project/)
 
 ## Contribution 🛠️
