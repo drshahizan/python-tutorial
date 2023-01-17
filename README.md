@@ -18,6 +18,7 @@ The information on this Github is part of the materials for the subject High Per
 - [How to Embed Interactive Python Visualizations on Your Website with Python and Matplotlib](https://www.freecodecamp.org/news/how-to-embed-interactive-python-visualizations-on-your-website-with-python-and-matplotlib/)
 - [9 Best Django Website Templates 2023](https://adminlte.io/blog/django-website-templates/)
 - [College Management System using Django – Python Project](https://www.geeksforgeeks.org/college-management-system-using-django-python-project/)
+- [Best Python Django Tutorial For Beginners – With Project Structure](https://data-flair.training/blogs/python-django-tutorial/)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
