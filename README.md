@@ -15,15 +15,15 @@ The information on this Github is part of the materials for the subject High Per
 - [Creating and Viewing HTML files with Python](https://www.geeksforgeeks.org/creating-and-viewing-html-files-with-python/)
 - [Running Django on Google Colab](https://medium.com/@arsindoliya/running-django-on-google-colab-ea9392cdee86)
 - [Django tutorial](https://www.w3schools.com/django/index.php)
-- [How to Embed Interactive Python Visualizations on Your Website with Python and Matplotlib](https://www.freecodecamp.org/news/how-to-embed-interactive-python-visualizations-on-your-website-with-python-and-matplotlib/)
 - [9 Best Django Website Templates 2023](https://adminlte.io/blog/django-website-templates/)
 - [College Management System using Django – Python Project](https://www.geeksforgeeks.org/college-management-system-using-django-python-project/)
 - [Best Python Django Tutorial For Beginners – With Project Structure](https://data-flair.training/blogs/python-django-tutorial/)
 - [Django Dashboards — Open Source and Free](https://medium.com/@appseed.us/django-dashboards-open-source-and-free-projects-1d8e64919e6d)
 
 ### PyScript
--[Run Python Visualizations on the Web Using PyScript](https://www.makeuseof.com/pyscript-python-visualizations-web/)
-
+- [Run Python Visualizations on the Web Using PyScript](https://www.makeuseof.com/pyscript-python-visualizations-web/)
+- [How to Embed Interactive Python Visualizations on Your Website with Python and Matplotlib](https://www.freecodecamp.org/news/how-to-embed-interactive-python-visualizations-on-your-website-with-python-and-matplotlib/)
+- [How to Easily Run Python Visualizations On a Web Browser with PyScript](https://youtu.be/QYIr7A5ueXA)
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
 
