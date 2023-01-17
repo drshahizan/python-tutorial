@@ -14,6 +14,9 @@ The information on this Github is part of the materials for the subject High Per
 <img src="https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg"  height="200" />
 </p>
 
+### Notes
+- [13 Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
+
 ### PyScript
 - [PyScript - GitHub](https://github.com/pyscript/pyscript)
 - [Run Python Visualizations on the Web Using PyScript](https://www.makeuseof.com/pyscript-python-visualizations-web/)
