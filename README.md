@@ -15,6 +15,7 @@ The information on this Github is part of the materials for the subject High Per
 </p>
 
 ### PyScript
+- [PyScript - GitHub](https://github.com/pyscript/pyscript)
 - [Run Python Visualizations on the Web Using PyScript](https://www.makeuseof.com/pyscript-python-visualizations-web/)
 - [Run Python in Your HTML](https://pyscript.net/)
 - [PyScript demos](https://pyscript.net/examples/)
