@@ -12,7 +12,7 @@ The information on this Github is part of the materials for the subject High Per
 
 ### Others
 - [A Practical Introduction to Web Scraping in Python](https://realpython.com/python-web-scraping-practical-introduction/)
-- [Creating and Viewing HTML files with Python]([Creating and Viewing HTML files with Python](https://www.geeksforgeeks.org/creating-and-viewing-html-files-with-python/)
+- [Creating and Viewing HTML files with Python]((https://www.geeksforgeeks.org/creating-and-viewing-html-files-with-python/)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
