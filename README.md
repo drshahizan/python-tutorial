@@ -14,6 +14,7 @@ The information on this Github is part of the materials for the subject High Per
 - [A Practical Introduction to Web Scraping in Python](https://realpython.com/python-web-scraping-practical-introduction/)
 - [Creating and Viewing HTML files with Python](https://www.geeksforgeeks.org/creating-and-viewing-html-files-with-python/)
 - [Running Django on Google Colab](https://medium.com/@arsindoliya/running-django-on-google-colab-ea9392cdee86)
+- [Django tutorial](https://www.w3schools.com/django/index.php)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
