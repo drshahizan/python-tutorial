@@ -16,6 +16,7 @@ The information on this Github is part of the materials for the subject High Per
 
 ### Notes
 - [13 Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
+- [Github: Real Python - materials](https://github.com/realpython/materials)
 
 ### PyScript
 - [PyScript - GitHub](https://github.com/pyscript/pyscript)
