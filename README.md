@@ -21,6 +21,9 @@ The information on this Github is part of the materials for the subject High Per
 - [Best Python Django Tutorial For Beginners – With Project Structure](https://data-flair.training/blogs/python-django-tutorial/)
 - [Django Dashboards — Open Source and Free](https://medium.com/@appseed.us/django-dashboards-open-source-and-free-projects-1d8e64919e6d)
 
+### PyScript
+-[Run Python Visualizations on the Web Using PyScript](https://www.makeuseof.com/pyscript-python-visualizations-web/)
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
 
