@@ -13,6 +13,7 @@ The information on this Github is part of the materials for the subject High Per
 ### PyScript
 - [Run Python Visualizations on the Web Using PyScript](https://www.makeuseof.com/pyscript-python-visualizations-web/)
 - [Run Python in Your HTML](https://pyscript.net/)
+- [PyScript demos](https://pyscript.net/examples/)
 - [How to Embed Interactive Python Visualizations on Your Website with Python and Matplotlib](https://www.freecodecamp.org/news/how-to-embed-interactive-python-visualizations-on-your-website-with-python-and-matplotlib/)
 - [How to Easily Run Python Visualizations On a Web Browser with PyScript](https://youtu.be/QYIr7A5ueXA)
 
