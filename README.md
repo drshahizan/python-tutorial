@@ -1,9 +1,9 @@
-<a href="https://github.com/drshahizan/Python_Tutorial/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/Python_Tutorial" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/Python_Tutorial/network/members"><img src="https://img.shields.io/github/forks/drshahizan/Python_Tutorial" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/Python_Tutorial/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/Python_Tutorial" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/Python_Tutorial/issues"><img src="https://img.shields.io/github/issues/drshahizan/Python_Tutorial" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/Python_Tutorial/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Python_Tutorial?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/Python_Tutorial)
+<a href="https://github.com/drshahizan/python-tutorial/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/python-tutorial" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/python-tutorial/network/members"><img src="https://img.shields.io/github/forks/drshahizan/python-tutorial" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/python-tutorial/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/python-tutorial" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/python-tutorial/issues"><img src="https://img.shields.io/github/issues/drshahizan/python-tutorial" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/python-tutorial/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Python_Tutorial?color=2b9348"></a>
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/python-tutorial)
 
 Don't forget to hit the :star: if you like this repo.
 
@@ -14,35 +14,14 @@ The information on this Github is part of the materials for the subject High Per
 <img src="https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg"  height="200" />
 </p>
 
-### Notes
-- [13 Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
-- [Github: Real Python - materials](https://github.com/realpython/materials)
-
-### PyScript
-- [PyScript - GitHub](https://github.com/pyscript/pyscript)
-- [Run Python Visualizations on the Web Using PyScript](https://www.makeuseof.com/pyscript-python-visualizations-web/)
-- [Run Python in Your HTML](https://pyscript.net/)
-- [PyScript demos](https://pyscript.net/examples/)
-- [Pyscript Tutorial With Simple Code Examples](https://pythonistaplanet.com/pyscript/)
-- [A First Look at PyScript: Python in the Web Browser](https://realpython.com/pyscript-python-in-browser/)
-- [How to Embed Interactive Python Visualizations on Your Website with Python and Matplotlib](https://www.freecodecamp.org/news/how-to-embed-interactive-python-visualizations-on-your-website-with-python-and-matplotlib/)
-- [How to Easily Run Python Visualizations On a Web Browser with PyScript](https://youtu.be/QYIr7A5ueXA)
-
-### Django
-- [A Practical Introduction to Web Scraping in Python](https://realpython.com/python-web-scraping-practical-introduction/)
-- [Creating and Viewing HTML files with Python](https://www.geeksforgeeks.org/creating-and-viewing-html-files-with-python/)
-- [Running Django on Google Colab](https://medium.com/@arsindoliya/running-django-on-google-colab-ea9392cdee86)
-- [Django tutorial](https://www.w3schools.com/django/index.php)
-- [9 Best Django Website Templates 2023](https://adminlte.io/blog/django-website-templates/)
-- [College Management System using Django – Python Project](https://www.geeksforgeeks.org/college-management-system-using-django-python-project/)
-- [Best Python Django Tutorial For Beginners – With Project Structure](https://data-flair.training/blogs/python-django-tutorial/)
-- [Django Dashboards — Open Source and Free](https://medium.com/@appseed.us/django-dashboards-open-source-and-free-projects-1d8e64919e6d)
-
-### Power BI
--[Microsoft Power BI and Python: Two Superpowers Combined](https://realpython.com/power-bi-python/)
+### 📚 Course: High Performance Data Processing 
+-   [Python for beginners](https://github.com/drshahizan/python-tutorial)
+-   [Exploratory data analysis](https://github.com/drshahizan/Python_EDA)
+-   [Big data processing](https://github.com/drshahizan/Python-big-data)
+-   [Python Web Framework](https://github.com/drshahizan/python-web)
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/python-tutorial/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
