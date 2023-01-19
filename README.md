@@ -39,6 +39,9 @@ Discover machine learning tools and resources for beginners and advanced practit
 
 5️⃣ [𝟱𝟬𝟬 𝗠𝗟 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝘄𝗶𝘁𝗵 𝗖𝗼𝗱𝗲](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
+## Dataset
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/python-tutorial/issues) for any improvements, suggestions or errors in the content.
 
