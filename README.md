@@ -14,6 +14,25 @@ The information on this Github is part of the materials for the subject High Per
 <img src="https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg"  height="200" />
 </p>
 
+# Notes
+📚 5 amazing Github repos for data science!
+
+Learn skills or discover useful resources with these repositories.
+
+1️⃣ 𝗠𝗟 𝗳𝗼𝗿 𝗕𝗲𝗴𝗶𝗻𝗻𝗲𝗿𝘀 𝗯𝘆 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 (https://lnkd.in/gGcN5KGC)
+Learn machine learning with Microsoft’s hands-on curriculum
+
+2️⃣ 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗿𝗶𝘇𝘇𝗹𝗲 (https://lnkd.in/gGJJjTFN) 
+Find top universities’ publicly available deep learning classes
+
+3️⃣ 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄𝘀 (https://lnkd.in/g3mUXU-r)
+Prepare for your upcoming interview with this repository of questions.
+
+4️⃣ 𝗔𝘄𝗲𝘀𝗼𝗺𝗲 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 (https://lnkd.in/g-X_4miP
+Discover machine learning tools and resources for beginners and advanced practitioners alike
+
+5️⃣ 𝟱𝟬𝟬 𝗠𝗟 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝘄𝗶𝘁𝗵 𝗖𝗼𝗱𝗲 (https://lnkd.in/grSnzXNv
+
 ### 📚 Course: High Performance Data Processing 
 - [Python for beginners](https://github.com/drshahizan/python-tutorial)
 - [Web scraping and Python web framework](https://github.com/drshahizan/python-web)
