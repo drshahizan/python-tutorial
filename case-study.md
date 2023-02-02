@@ -9,6 +9,14 @@ Don't forget to hit the :star: if you like this repo.
 
 # Case Study
 
+### Contents:
+- [Web Scraping](#web-scraping)
+- [Exploratory Data Analysis](#python-web-development)
+- [Pandas - Data Processing]()
+- [Alternatives to Pandas for Processing Large Datasets]()
+- [Processing Large Datasets: Library Comparison]()
+- [Project](#project)
+
 ## 🌟Web Scraping
 
 | Team | Library | Website |  GitHub |
