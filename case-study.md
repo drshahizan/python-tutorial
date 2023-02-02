@@ -77,6 +77,23 @@ Don't forget to hit the :star: if you like this repo.
 | TUK | Fraud Detection in Online Payment |  [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%201/TUK) |
 | UWU | Airline Delay 2017 | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%201/uwu) |
 
+## 🌟 Alternatives to Pandas for Processing Large Datasets
+
+| Team | Library | Title |  GitHub |
+| ----- | ----- | ------ | ------ | 
+| AdMiPeQa | DataTable | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202a/AdMiPeQa) |
+| QwQ | Polars | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202a/QwQ) |
+| BigMac | Vaex | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202a/BigMac) |
+| Sepuluh | Pyspark | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202a/Sepuluh) |
+| High Five | Koalas | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202a/High%20Five) |
+| SIX | cuDF | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202a/SIX) |
+| No name | DataTable | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202a/No%20name) |
+| QUAD | Polars | NYC yellow taxi trip data | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202a/QUAD) |
+| Rojak | Vaex | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202a/Rojak) |
+| SamVerse | Pyspark | 1000000 Sales Records | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202a/SamVerse) |
+| SDS | Koalas | NYC yellow taxi trip data | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202a/SDS) |
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/python-tutorial/issues) for any improvements, suggestions or errors in the content.
 
