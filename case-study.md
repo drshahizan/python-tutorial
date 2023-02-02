@@ -12,7 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 ### Contents:
 - [Web Scraping](#web-scraping)
 - [Exploratory Data Analysis](#python-web-development)
-- [Pandas - Data Processing]()
+- [Pandas - Data Processing](#pandas---data-processing)
 - [Alternatives to Pandas for Processing Large Datasets](#-alternatives-to-pandas-for-processing-large-datasets)
 - [Processing Large Datasets: Library Comparison](#-processing-large-datasets-library-comparison)
 - [Project](#-project)
