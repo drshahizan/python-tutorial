@@ -19,6 +19,7 @@ The information on this Github is part of the materials for the subject High Per
 - [Web scraping and Python web framework](https://github.com/drshahizan/python-web)
 - [Exploratory data analysis](https://github.com/drshahizan/Python_EDA)
 - [Big data processing](https://github.com/drshahizan/Python-big-data)
+- [Case Study](https://github.com/drshahizan/python-tutorial/blob/main/case-study.md)
 
 # Notes
 📚 5 amazing Github repos for data science! Learn skills or discover useful resources with these repositories.
