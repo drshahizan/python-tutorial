@@ -15,7 +15,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Pandas - Data Processing]()
 - [Alternatives to Pandas for Processing Large Datasets]()
 - [Processing Large Datasets: Library Comparison]()
-- [Project](#project)
+- [Project](#-project)
 
 ## 🌟Web Scraping
 
