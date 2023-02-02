@@ -93,6 +93,22 @@ Don't forget to hit the :star: if you like this repo.
 | SamVerse | Pyspark | 1000000 Sales Records | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202a/SamVerse) |
 | SDS | Koalas | NYC yellow taxi trip data | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202a/SDS) |
 
+## 🌟 Processing Large Datasets: Library Comparison
+
+| Team | Library | Title |  GitHub |
+| ----- | ----- | ------ | ------ | 
+| AdMiPeQa | Pandas vs DataTable | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202b/AdMiPeQa) |
+| QwQ | Pandas vs Polars | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202b/QwQ) |
+| BigMac | Pandas vs Vaex | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202b/BigMac) |
+| SamVerse | Pandas vs Pyspark | 1000000 Sales Records | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202b/SamVerse) |
+| High Five | Pandas vs Koalas | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202b/High%20Five) |
+| SIX | Pandas vs cuDF | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202b/SIX) |
+| No name | Pandas vs DataTable | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202b/No%20name) | 
+| QUAD | Pandas vs Polars | NYC Yellow Taxi Trip | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202b/QUAD) |
+| Rojak | Pandas vs Vaex | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202b/Rojak) |
+| Sepuluh | Pandas vs Pyspark | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202b/Sepuluh) |
+| SDS | Pandas vs Koalas | NYC Yellow Taxi Trip | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202b/SDS) |
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/python-tutorial/issues) for any improvements, suggestions or errors in the content.
