@@ -21,7 +21,7 @@ The information on this Github is part of the materials for the subject High Per
 - [Big data processing](https://github.com/drshahizan/Python-big-data)
 - [Case Study](https://github.com/drshahizan/python-tutorial/blob/main/case-study.md)
 
-# Notes
+## Notes
 📚 5 amazing Github repos for data science! Learn skills or discover useful resources with these repositories.
 
 1️⃣ [𝗠𝗟 𝗳𝗼𝗿 𝗕𝗲𝗴𝗶𝗻𝗻𝗲𝗿𝘀 𝗯𝘆 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁](https://github.com/microsoft/ML-For-Beginners)
