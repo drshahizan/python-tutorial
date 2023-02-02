@@ -109,6 +109,21 @@ Don't forget to hit the :star: if you like this repo.
 | Sepuluh | Pandas vs Pyspark | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202b/Sepuluh) |
 | SDS | Pandas vs Koalas | NYC Yellow Taxi Trip | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202b/SDS) |
 
+## 🌟 Project
+
+| Team | Library 1 | Library 2 | Library 3 | Dataset |  Open in GitHub |
+| ----- | ----- | ------ | ------ |  ------ | :------: | 
+| AdMiPeQa | Pandas | Dask | Koalas | Air Flight Analysis | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/AdMiPeQa) |
+| BigMac | Vaex | Koalas | PySpark | Airline Delay and Cancellation Data 2016 - 2018| [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/BigMac) |
+| No Name | Pandas | PySpark | Koalas | Amazon Book Review | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/No%20Name) |
+| QUAD | Polars | Koalas | Datatable | NYC yellow taxi trip data | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/QUAD) |
+| QwQ | Koalas | Pyspark | Dask | NYC Automated Traffic Volume Counts | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/QwQ) |
+| Rojak | Pandas | Vaex | Koalas | 15 Million Chess Games from Lichess (2013-2014) | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/Rojak) |
+| SDS | Pandas | Polars | Koalas | Analysis of Amazon Books Review | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/SDS) |
+| SIX | Dask | Pyspark | Koalas | NYC Parking Tickets | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/SIX) |
+| SamVerse | Pandas | PySpark | Koalas | Spotify Charts | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/SamVerse) |
+| Sepuluh | Pyspark | Polars | Pandas | Airline Delay and Cancellation Data 2017 - 2018 | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/Sepuluh) |
+| High Five | Pandas | Koalas | Modin | Airline Delay and Cancellation Data 2015 - 2016 | [:octocat:](https://github.com/drshahizan/Python-big-data/tree/main/Project/High%20Five) |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/python-tutorial/issues) for any improvements, suggestions or errors in the content.
