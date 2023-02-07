@@ -40,31 +40,17 @@ Discover machine learning tools and resources for beginners and advanced practit
 
 - [𝟱𝟬𝟬 𝗠𝗟 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝘄𝗶𝘁𝗵 𝗖𝗼𝗱𝗲](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
-Top 6 Github Repos to Learn Data Science and Python, or copy some code, as needed :)
+- [All algorithms implemented in Python. By: The Algorithms](https://lnkd.in/guaDFtA)
 
-1. All algorithms implemented in Python
-By: The Algorithms
-https://lnkd.in/guaDFtA
+- [Learn Python 3. By: Jerry Pussinen](https://lnkd.in/gRm8xYs)
 
-2. Learn Python 3
-By: Jerry Pussinen
-https://lnkd.in/gRm8xYs
+- [DataScienceResources. By: jb](https://lnkd.in/gfn6GxN)
 
-3. DataScienceResources
-By: jb
-https://lnkd.in/gfn6GxN
+- [Awesome Data Science. By: Fatih Aktürk, Hüseyin Mert & Osman Ungur, Recep Erol.](https://lnkd.in/g9VRjip)
 
-4. Awesome Data Science
-By: Fatih Aktürk, Hüseyin Mert & Osman Ungur, Recep Erol.
-https://lnkd.in/g9VRjip
+- [data-scientist-roadmap. By: MrMimic](https://lnkd.in/gBRwKVw)
 
-5. data-scientist-roadmap
-By: MrMimic
-https://lnkd.in/gBRwKVw
-
-6. Data Science Best Resources
-By: Tirthajyoti Sarkar
-https://lnkd.in/ghk3yBd
+6. [Data Science Best Resources. By: Tirthajyoti Sarkar](https://lnkd.in/ghk3yBd)
 
 ## Dataset
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
