@@ -28,7 +28,7 @@ The information on this Github is part of the materials for the subject High Per
 
 ## Notes
 
-### 📚 Amazing Github repos for data science! 
+### :octocat: Amazing Github repos for Data Science! 
 Learn skills or discover useful resources with these repositories.
 
 - [𝗠𝗟 𝗳𝗼𝗿 𝗕𝗲𝗴𝗶𝗻𝗻𝗲𝗿𝘀 𝗯𝘆 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁](https://github.com/microsoft/ML-For-Beginners)
