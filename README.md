@@ -21,6 +21,11 @@ The information on this Github is part of the materials for the subject High Per
 - [Big data processing](https://github.com/drshahizan/Python-big-data)
 - [Case Study](https://github.com/drshahizan/python-tutorial/blob/main/case-study.md)
 
+<p align="left">
+<img src="https://github.com/drshahizan/python-tutorial/blob/main/images/python-applications.png"  height="300" />
+</p>
+
+
 ## Notes
 
 ### 📚 Amazing Github repos for data science! 
