@@ -22,21 +22,49 @@ The information on this Github is part of the materials for the subject High Per
 - [Case Study](https://github.com/drshahizan/python-tutorial/blob/main/case-study.md)
 
 ## Notes
-📚 5 amazing Github repos for data science! Learn skills or discover useful resources with these repositories.
 
-1️⃣ [𝗠𝗟 𝗳𝗼𝗿 𝗕𝗲𝗴𝗶𝗻𝗻𝗲𝗿𝘀 𝗯𝘆 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁](https://github.com/microsoft/ML-For-Beginners)
+### 📚 Amazing Github repos for data science! 
+Learn skills or discover useful resources with these repositories.
+
+- [𝗠𝗟 𝗳𝗼𝗿 𝗕𝗲𝗴𝗶𝗻𝗻𝗲𝗿𝘀 𝗯𝘆 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁](https://github.com/microsoft/ML-For-Beginners)
 Learn machine learning with Microsoft’s hands-on curriculum
 
-2️⃣ [𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗿𝗶𝘇𝘇𝗹𝗲](https://github.com/kmario23/deep-learning-drizzle)
+- [𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗿𝗶𝘇𝘇𝗹𝗲](https://github.com/kmario23/deep-learning-drizzle)
 Find top universities’ publicly available deep learning classes
 
-3️⃣ [𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄𝘀](https://github.com/alexeygrigorev/data-science-interviews)
+- [𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄𝘀](https://github.com/alexeygrigorev/data-science-interviews)
 Prepare for your upcoming interview with this repository of questions.
 
-4️⃣ [𝗔𝘄𝗲𝘀𝗼𝗺𝗲 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴](https://github.com/josephmisiti/awesome-machine-learning)
+- [𝗔𝘄𝗲𝘀𝗼𝗺𝗲 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴](https://github.com/josephmisiti/awesome-machine-learning)
 Discover machine learning tools and resources for beginners and advanced practitioners alike
 
-5️⃣ [𝟱𝟬𝟬 𝗠𝗟 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝘄𝗶𝘁𝗵 𝗖𝗼𝗱𝗲](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+- [𝟱𝟬𝟬 𝗠𝗟 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝘄𝗶𝘁𝗵 𝗖𝗼𝗱𝗲](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+
+Top 6 Github Repos to Learn Data Science and Python, or copy some code, as needed :)
+
+1. All algorithms implemented in Python
+By: The Algorithms
+https://lnkd.in/guaDFtA
+
+2. Learn Python 3
+By: Jerry Pussinen
+https://lnkd.in/gRm8xYs
+
+3. DataScienceResources
+By: jb
+https://lnkd.in/gfn6GxN
+
+4. Awesome Data Science
+By: Fatih Aktürk, Hüseyin Mert & Osman Ungur, Recep Erol.
+https://lnkd.in/g9VRjip
+
+5. data-scientist-roadmap
+By: MrMimic
+https://lnkd.in/gBRwKVw
+
+6. Data Science Best Resources
+By: Tirthajyoti Sarkar
+https://lnkd.in/ghk3yBd
 
 ## Dataset
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
