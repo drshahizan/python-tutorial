@@ -40,17 +40,17 @@ Discover machine learning tools and resources for beginners and advanced practit
 
 - [𝟱𝟬𝟬 𝗠𝗟 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝘄𝗶𝘁𝗵 𝗖𝗼𝗱𝗲](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
-- [All algorithms implemented in Python. By: The Algorithms](https://lnkd.in/guaDFtA)
+- [All algorithms implemented in Python. By: The Algorithms](https://github.com/TheAlgorithms/Python)
 
-- [Learn Python 3. By: Jerry Pussinen](https://lnkd.in/gRm8xYs)
+- [Learn Python 3. By: Jerry Pussinen](https://github.com/jerry-git/learn-python3)
 
-- [DataScienceResources. By: jb](https://lnkd.in/gfn6GxN)
+- [DataScienceResources. By: jb](https://github.com/jonathan-bower/DataScienceResources)
 
-- [Awesome Data Science. By: Fatih Aktürk, Hüseyin Mert & Osman Ungur, Recep Erol.](https://lnkd.in/g9VRjip)
+- [Awesome Data Science. By: Fatih Aktürk, Hüseyin Mert & Osman Ungur, Recep Erol.](https://github.com/academic/awesome-datascience)
 
-- [data-scientist-roadmap. By: MrMimic](https://lnkd.in/gBRwKVw)
+- [data-scientist-roadmap. By: MrMimic](https://github.com/MrMimic/data-scientist-roadmap)
 
-6. [Data Science Best Resources. By: Tirthajyoti Sarkar](https://lnkd.in/ghk3yBd)
+6. [Data Science Best Resources. By: Tirthajyoti Sarkar](https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md)
 
 ## Dataset
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
