@@ -28,6 +28,23 @@ The information on this Github is part of the materials for the subject High Per
 
 ## Notes
 
+### Python practice resources
+You can practice by using online Python interpreters or codepads available online. There’s not much difference between an interpreter and a codepad. An interpreter is more interactive than a codepad, but they both let you execute code and see the results.
+
+Below, you’ll find links to some of the most popular online interpreters and codepads. Give them a go to find your favorite.
+
+- https://www.python.org/shell/
+
+- https://www.onlinegdb.com/online_python_interpreter
+
+- https://repl.it/languages/python3
+
+- https://www.tutorialspoint.com/execute_python3_online.php
+
+- https://rextester.com/l/python3_online_compiler
+
+- https://trinket.io/python3
+
 ### :octocat: Amazing Github repos for Data Science! 
 Learn skills or discover useful resources with these repositories.
 
@@ -44,6 +61,8 @@ Learn skills or discover useful resources with these repositories.
 | **All algorithms implemented in Python** By: The Algorithms | [:octocat:](https://github.com/TheAlgorithms/Python) |
 | **Data Science Best Resources.** By: Tirthajyoti Sarkar | [:octocat:](https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md) |
 | **Learn Python 3** By: Jerry Pussinen | [:octocat:](https://github.com/jerry-git/learn-python3) |
+
+
 
 ### Top 20 Pandas Functions for 80% of Your Data Science Tasks!!!
 
