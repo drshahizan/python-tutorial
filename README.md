@@ -45,6 +45,19 @@ Below, you’ll find links to some of the most popular online interpreters and c
 
 - https://trinket.io/python3
 
+### Python history and current status
+Python was released almost 30 years ago and has a rich history. You can read more about it on the History of Python Wikipedia page or in the section on the history of the software from the official Python documentation.
+
+Python has recently been called the fastest growing programming language. If you're interested in why this is and how it’s measured, you can find out more in these articles:
+
+- [The Incredible Growth of Python (Stack Overflow)](https://stackoverflow.blog/2017/09/06/incredible-growth-python/)
+
+- [Why is Python Growing So Quickly - Future Trends (Netguru)](https://www.netguru.com/blog/future-of-python)
+
+- [By the numbers: Python community trends in 2017/2018 (Opensource.com)](https://opensource.com/article/18/5/numbers-python-community-trends)
+
+- [Developer Survey Results 2018 (Stack Overflow)](https://insights.stackoverflow.com/survey/2018#technology)
+
 ### :octocat: Amazing Github repos for Data Science! 
 Learn skills or discover useful resources with these repositories.
 
