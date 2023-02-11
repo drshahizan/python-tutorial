@@ -31,6 +31,12 @@ The information on this Github is part of the materials for the subject High Per
 ### :octocat: Amazing Github repos for Data Science! 
 Learn skills or discover useful resources with these repositories.
 
+| Title |  GitHub |
+| ----- | :------: | 
+|**Data-scientist-roadmap.** By: MrMimic | [:octocat:](https://github.com/MrMimic/data-scientist-roadmap)|
+
+
+| AdMiPeQa | DataTable | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?
 - [**Data-scientist-roadmap.** By: MrMimic](https://github.com/MrMimic/data-scientist-roadmap)
 
 - [**DataScienceResources.** By: jb](https://github.com/jonathan-bower/DataScienceResources)
