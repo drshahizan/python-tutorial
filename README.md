@@ -33,35 +33,17 @@ Learn skills or discover useful resources with these repositories.
 
 | Title |  GitHub |
 | ----- | :------: | 
-|**Data-scientist-roadmap.** By: MrMimic | [:octocat:](https://github.com/MrMimic/data-scientist-roadmap)|
-
-
-| AdMiPeQa | DataTable | Health Insurance Marketplace | [![Open in GitHub](https://img.shields.io/static/v1?
-- [**Data-scientist-roadmap.** By: MrMimic](https://github.com/MrMimic/data-scientist-roadmap)
-
-- [**DataScienceResources.** By: jb](https://github.com/jonathan-bower/DataScienceResources)
-- [**Awesome Data Science.** By: Fatih Aktürk, Hüseyin Mert & Osman Ungur, Recep Erol.](https://github.com/academic/awesome-datascience)
-- [𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄𝘀](https://github.com/alexeygrigorev/data-science-interviews)
-Prepare for your upcoming interview with this repository of questions.
-- [𝗠𝗟 𝗳𝗼𝗿 𝗕𝗲𝗴𝗶𝗻𝗻𝗲𝗿𝘀 𝗯𝘆 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁](https://github.com/microsoft/ML-For-Beginners)
-Learn machine learning with Microsoft’s hands-on curriculum
-
-- [𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗿𝗶𝘇𝘇𝗹𝗲](https://github.com/kmario23/deep-learning-drizzle)
-Find top universities’ publicly available deep learning classes
-
-
-
-- [𝗔𝘄𝗲𝘀𝗼𝗺𝗲 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴](https://github.com/josephmisiti/awesome-machine-learning)
-Discover machine learning tools and resources for beginners and advanced practitioners alike
-- [𝟱𝟬𝟬 𝗠𝗟 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝘄𝗶𝘁𝗵 𝗖𝗼𝗱𝗲](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
-- [**All algorithms implemented in Python** By: The Algorithms](https://github.com/TheAlgorithms/Python)
-
-
-
-
-- [**Data Science Best Resources.** By: Tirthajyoti Sarkar](https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md)
-
-- [**Learn Python 3** By: Jerry Pussinen](https://github.com/jerry-git/learn-python3)
+| **Data-scientist-roadmap**. By: MrMimic | [:octocat:](https://github.com/MrMimic/data-scientist-roadmap) |
+| **DataScienceResources**. By: jb | [:octocat:](https://github.com/jonathan-bower/DataScienceResources) |
+| **Awesome Data Science.** By: Fatih Aktürk, Hüseyin Mert & Osman Ungur, Recep Erol. | [:octocat:](https://github.com/academic/awesome-datascience)|
+| **𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄s**: Prepare for your upcoming interview with this repository of questions | [:octocat:](https://github.com/alexeygrigorev/data-science-interviews)|
+| **𝗠𝗟 𝗳𝗼𝗿 𝗕𝗲𝗴𝗶𝗻𝗻𝗲𝗿𝘀 𝗯𝘆 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁**: Learn machine learning with Microsoft’s hands-on curriculum | [:octocat:](https://github.com/microsoft/ML-For-Beginners)| 
+| **𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗿𝗶𝘇𝘇𝗹𝗲**: Find top universities’ publicly available deep learning classes | [:octocat:](https://github.com/kmario23/deep-learning-drizzle) |
+| **𝗔𝘄𝗲𝘀𝗼𝗺𝗲 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴**: Discover machine learning tools and resources for beginners and advanced practitioners alike | [:octocat:](https://github.com/josephmisiti/awesome-machine-learning) |
+| **𝟱𝟬𝟬 𝗠𝗟 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝘄𝗶𝘁𝗵 𝗖𝗼𝗱𝗲** | [:octocat:](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) |
+| **All algorithms implemented in Python** By: The Algorithms | [:octocat:](https://github.com/TheAlgorithms/Python) |
+| **Data Science Best Resources.** By: Tirthajyoti Sarkar | [:octocat:](https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md) |
+| **Learn Python 3** By: Jerry Pussinen | [:octocat:](https://github.com/jerry-git/learn-python3) |
 
 ### Top 20 Pandas Functions for 80% of Your Data Science Tasks!!!
 
