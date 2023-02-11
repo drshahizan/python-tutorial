@@ -57,6 +57,49 @@ Discover machine learning tools and resources for beginners and advanced practit
 
 - [**Learn Python 3** By: Jerry Pussinen](https://github.com/jerry-git/learn-python3)
 
+### Top 20 Pandas Functions for 80% of Your Data Science Tasks!!!
+
+As Data scientists, we all know how essential it is to have a solid understanding of pandas - Python's go-to library for data manipulation and analysis. I scrolled through the different articles and found this amazing article.
+
+🎯 pd.read_csv()
+
+🎯 df.describe()
+
+🎯 df.info()
+
+🎯 df.plot()
+
+🎯 df.iloc()
+
+🎯 df.loc()
+
+🎯 df.assign()
+
+🎯 df.query()
+
+🎯 df.sort_values()
+
+🎯 df.sample()
+
+🎯 df.isnull()
+
+🎯 df.fillna()
+
+🎯 df.dropna()
+
+🎯 df.drop()
+
+🎯 pd.pivot_table()
+
+🎯 df.groupby()
+
+🎯 df.transpose()
+
+🎯 df.merge()
+
+🎯 df.rename()
+
+🎯 df.to_csv()
 
 ## Dataset
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
