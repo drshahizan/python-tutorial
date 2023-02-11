@@ -59,7 +59,7 @@ Discover machine learning tools and resources for beginners and advanced practit
 
 ### Top 20 Pandas Functions for 80% of Your Data Science Tasks!!!
 
-As Data scientists, we all know how essential it is to have a solid understanding of pandas - Python's go-to library for data manipulation and analysis. I scrolled through the different articles and found this amazing article.
+As Data scientists, we all know how essential it is to have a solid understanding of pandas - Python's go-to library for data manipulation and analysis. [Amazing article](https://github.com/drshahizan/python-tutorial/blob/main/images/20_Pandas_Functions.pdf).
 
 🎯 pd.read_csv()
 
