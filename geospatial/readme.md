@@ -1,3 +1,11 @@
+<a href="https://github.com/drshahizan/python-tutorial/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/python-tutorial" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/python-tutorial/network/members"><img src="https://img.shields.io/github/forks/drshahizan/python-tutorial" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/python-tutorial/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/python-tutorial" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/python-tutorial/issues"><img src="https://img.shields.io/github/issues/drshahizan/python-tutorial" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/python-tutorial/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Python_Tutorial?color=2b9348"></a>
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/python-tutorial)
+
+Don't forget to hit the :star: if you like this repo.
 
 # 𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐢𝐧𝐠 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐆𝐞𝐨𝐬𝐩𝐚𝐭𝐢𝐚𝐥 𝐃𝐚𝐭𝐚: 𝟐𝟎 𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐢𝐧𝐠 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧-𝐁𝐚𝐬𝐞𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 & 𝐁𝐞𝐲𝐨𝐧𝐝
 
