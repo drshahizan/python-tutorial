@@ -74,6 +74,7 @@ Learn skills or discover useful resources with these repositories.
 | **All algorithms implemented in Python** By: The Algorithms | [:octocat:](https://github.com/TheAlgorithms/Python) |
 | **Data Science Best Resources.** By: Tirthajyoti Sarkar | [:octocat:](https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md) |
 | **Learn Python 3** By: Jerry Pussinen | [:octocat:](https://github.com/jerry-git/learn-python3) |
+| **Machine Learning Bookcamp** By: alexeygrigorev | [:octocat:](https://github.com/alexeygrigorev/mlbookcamp-code) |
 
 
 
