@@ -61,7 +61,7 @@ Python has recently been called the fastest growing programming language. If you
 ### Python: E-book
 | Title |  Link |
 | ----- | :------: | 
-| **Python for Data Analysis, 3E**. By: MrMimic | [:octocat:](https://wesmckinney.com/book/) |
+| **Python for Data Analysis, 3E**. By: Wes McKinney | [:octocat:](https://wesmckinney.com/book/) |
 
 ### :octocat: Amazing Github repos for Data Science! 
 Learn skills or discover useful resources with these repositories.
