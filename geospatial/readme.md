@@ -46,19 +46,14 @@ Challenges of geospatial data:
 - accessibility
 - data visualization
 
-𝐈 𝐟𝐨𝐮𝐧𝐝 𝟐𝟎 𝐁𝐞𝐬𝐭 𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐟𝐨𝐫 𝐆𝐞𝐨𝐬𝐩𝐚𝐭𝐢𝐚𝐥 𝐃𝐚𝐭𝐚:
+## 20 best python libraries for geospatial data:
 
-📚 Pydeck (⭐ 11K)
+| Title | Description |  Link |
+| ----- | ----- | :------: | 
+| **Pydeck (⭐ 11K)** | WebGL2 powered visualization framework | <a href="https://wesmckinney.com/book/" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
+| **Folium (⭐ 6.1K)** | Interactive maps | <a href="https://wesmckinney.com/book/" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
+| **Geopy (⭐ 3.9K)** | Geocoding & reverse geocoding | <a href="https://wesmckinney.com/book/" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
 
-WebGL2 powered visualization framework
-
-📚 Folium (⭐ 6.1K)
-
-Interactive maps
-
-📚 Geopy (⭐ 3.9K)
-
-Geocoding & reverse geocoding
 
 📚 Geopandas (⭐ 3.5K) 
 
