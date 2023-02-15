@@ -5,12 +5,12 @@ Geospatial data refers to information that is linked to a specific place on eart
 
 𝔾𝕖𝕠 𝕕𝕒𝕥𝕒 𝕚𝕤 𝕦𝕟𝕚𝕢𝕦𝕖 𝕚𝕟:
 
-➊ Location Context
-➋ Spatial Relationships
-➌ Coordinate System Reference
-➍ Visual Representation
-➎ Complex Structures
-➏  Data Integration
+- Location Context
+- Spatial Relationships
+- Coordinate System Reference
+- Visual Representation
+- Complex Structures
+- Data Integration
 
 𝕀𝕥𝕤 𝕄𝕠𝕤𝕥 𝕀𝕞𝕡𝕠𝕣𝕥𝕒𝕟𝕥 𝔽𝕦𝕟𝕔𝕥𝕚𝕠𝕟𝕤:
 
