@@ -61,47 +61,16 @@ Challenges of geospatial data:
 | **ArcGIS (⭐ 1.5K)** | ArcGIS for Python | [:octocat:]() |
 | **Fiona (⭐ 1K)** | Reading/writing geo data formats (shapefiles, GeoJSON, GPX) | [:octocat:]() |
 | **Pyproj (⭐ 840)** | Projections & transformations of geospatial data| [:octocat:]() |
-
-
-📚 NetworkX
-
-Analyzing/modeling network data (spatial networks)
-
-📚 Cartopy
-
-Creating maps and plotting geospatial data
-
-📚 Gdal
-
-Working with various geospatial data formats/projections
-
-📚 Gevent
-
-Asynchronous I/O and network operations for large data sets
-
-📚 RTree
-
-Indexing/querying geospatial data
-
-📚 Descartes
-
-Plotting geospatial data in Matplotlib
-
-📚 PyQGIS
-
-Working with QGIS GIS software from Python
-
-📚 OSMnx
-
-Working with OpenStreetMap data (downloading, analyzing, visualizing)
-
-📚 Geojson
-
-Working with GeoJSON data format
-
-📚 Geohash
-
-Encoding/decoding geo data to ASCII string format.
+| **NetworkX** | Analyzing/modeling network data (spatial networks) | [:octocat:]() |
+| **Cartopy** | Creating maps and plotting geospatial data | [:octocat:]() |
+| **Gdal** | Working with various geospatial data formats/projections | [:octocat:]() |
+| **Gevent** | Asynchronous I/O and network operations for large data sets | [:octocat:]() |
+| **RTree** | Indexing/querying geospatial data | [:octocat:]() |
+| **Descartes** | Plotting geospatial data in Matplotlib | [:octocat:]() |
+| **PyQGIS** | Working with QGIS GIS software from Python | [:octocat:]() |
+| **OSMnx** | Working with OpenStreetMap data (downloading, analyzing, visualizing) | [:octocat:]() |
+| **Geojson** | Working with GeoJSON data format | [:octocat:]() |
+| **Geohash** | Encoding/decoding geo data to ASCII string format. | [:octocat:]() |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/python-tutorial/issues) for any improvements, suggestions or errors in the content.
