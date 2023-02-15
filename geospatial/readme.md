@@ -52,11 +52,11 @@ Challenges of geospatial data:
 | ----- | ----- | :------: | 
 | **Pydeck (⭐ 11K)** | WebGL2 powered visualization framework | [:octocat:](https://github.com/visgl/deck.gl) |
 | **Folium (⭐ 6.1K)** | Interactive maps | [:octocat:](https://github.com/python-visualization/folium) |
-| **Geopy (⭐ 3.9K)** | Geocoding & reverse geocoding | [:octocat:]() |
-| **Geopandas (⭐ 3.5K)** | Geospatial data in a pandas DataFrame | [:octocat:]() |
-| **Shapely (⭐ 3.2K)** | Geometric operations | [:octocat:]() |
-| **Rasterio (⭐ 1.9K)** | Reading/writing raster datasets (satellite imagery) | [:octocat:]() |
-| **ArcGIS (⭐ 1.5K)** | ArcGIS for Python | [:octocat:]() |
+| **Geopy (⭐ 3.9K)** | Geocoding & reverse geocoding | [:octocat:](https://github.com/geopy/geopy) |
+| **Geopandas (⭐ 3.5K)** | Geospatial data in a pandas DataFrame | [:octocat:](https://github.com/geopandas/geopandas) |
+| **Shapely (⭐ 3.2K)** | Geometric operations | [:octocat:](https://github.com/shapely/shapely) |
+| **Rasterio (⭐ 1.9K)** | Reading/writing raster datasets (satellite imagery) | [:octocat:](https://github.com/rasterio/rasterio) |
+| **ArcGIS (⭐ 1.5K)** | ArcGIS for Python | [:octocat:](https://github.com/Esri/arcgis-python-api) |
 | **PySAL (⭐ 1.1K)** | Spatial analysis (spatial statistics & econometrics) | [:octocat:]() |
 | **ArcGIS (⭐ 1.5K)** | ArcGIS for Python | [:octocat:]() |
 | **Fiona (⭐ 1K)** | Reading/writing geo data formats (shapefiles, GeoJSON, GPX) | [:octocat:]() |
