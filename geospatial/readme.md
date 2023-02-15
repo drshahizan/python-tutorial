@@ -7,12 +7,11 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# 𝐔𝐧𝐥𝐞𝐚𝐬𝐡𝐢𝐧𝐠 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐆𝐞𝐨𝐬𝐩𝐚𝐭𝐢𝐚𝐥 𝐃𝐚𝐭𝐚: 𝟐𝟎 𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐢𝐧𝐠 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧-𝐁𝐚𝐬𝐞𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 & 𝐁𝐞𝐲𝐨𝐧𝐝
+# Unleashing the power of geospatial data: 20 python libraries transforming location-based services & beyond
 
 Geospatial data refers to information that is linked to a specific place on earth, such as geographic coordinates or addresses. 
 
-𝔾𝕖𝕠 𝕕𝕒𝕥𝕒 𝕚𝕤 𝕦𝕟𝕚𝕢𝕦𝕖 𝕚𝕟:
-
+Geo data is unique in:
 - Location Context
 - Spatial Relationships
 - Coordinate System Reference
@@ -20,32 +19,32 @@ Geospatial data refers to information that is linked to a specific place on eart
 - Complex Structures
 - Data Integration
 
-𝕀𝕥𝕤 𝕄𝕠𝕤𝕥 𝕀𝕞𝕡𝕠𝕣𝕥𝕒𝕟𝕥 𝔽𝕦𝕟𝕔𝕥𝕚𝕠𝕟𝕤:
+## Its most important functions:
 
-➊ Geocoding: Converting address to coordinates
-➋ Spatial Query: Searching for features like proximity to a point.
-➌ Intersection: Finding the overlap between features.
-➍ Buffering: Creating a polygon around a point, line or polygon.
-➎ Union: Combining polygon features into a single one.
-➏  Dissolve: Merging polygon based on a common attribute.
-➐ Overlay: Creating a new layer by combining layers.
-➑ Raster to Vector Conversion
-➒ Distance Measurement: Calculating the feature distance.
-➊⓿ Projection Transformation: Changing projection of a layer.
+- Geocoding: Converting address to coordinates
+- Spatial Query: Searching for features like proximity to a point.
+- Intersection: Finding the overlap between features.
+- Buffering: Creating a polygon around a point, line or polygon.
+- Union: Combining polygon features into a single one.
+- Dissolve: Merging polygon based on a common attribute.
+- Overlay: Creating a new layer by combining layers.
+- Raster to Vector Conversion
+- Distance Measurement: Calculating the feature distance.
+- Projection Transformation: Changing projection of a layer.
 
 
-𝕍𝕒𝕝𝕦𝕒𝕓𝕝𝕖 𝕚𝕟 𝕤𝕖𝕧𝕖𝕣𝕒𝕝 𝕗𝕚𝕖𝕝𝕕𝕤:
+Valuable in several fields:
 
-⌘ Location-based services, like navigation apps.
-⌘ Urban planning and land use analysis.
-⌘ Environmental monitoring and resource management.
-⌘ Crime analysis
+- location-based services, like navigation apps.
+- Urban planning and land use analysis.
+- Environmental monitoring and resource management.
+- Crime analysis
 
-ℂ𝕙𝕒𝕝𝕝𝕖𝕟𝕘𝕖𝕤 𝕠𝕗 𝔾𝕖𝕠𝕤𝕡𝕒𝕥𝕚𝕒𝕝 𝔻𝕒𝕥𝕒:
+Challenges of geospatial data:
 
-➊ Real-time Updates
-➋ Accessibility
-➌ Data Visualization
+- real-time updates
+- accessibility
+- data visualization
 
 𝐈 𝐟𝐨𝐮𝐧𝐝 𝟐𝟎 𝐁𝐞𝐬𝐭 𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐟𝐨𝐫 𝐆𝐞𝐨𝐬𝐩𝐚𝐭𝐢𝐚𝐥 𝐃𝐚𝐭𝐚:
 
