@@ -64,6 +64,11 @@ Python has recently been called the fastest growing programming language. If you
 | **Python for Data Analysis, 3E**. By: Wes McKinney | <a href="https://wesmckinney.com/book/" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
 | **DevFreeBooks** | <a href="https://devfreebooks.github.io/python/" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
 
+### Python: Cheatsheet
+| Title |  Link |
+| ----- | :------: | 
+| **Python Notes/Cheat Sheet**. By: @Mark_Graph | <a href="https://github.com/drshahizan/python-tutorial/blob/main/cheatsheet/Interview_cheatsheet.pdf" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
+
 ### :octocat: Amazing Github repos for Data Science! 
 Learn skills or discover useful resources with these repositories.
 
