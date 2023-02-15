@@ -50,9 +50,9 @@ Challenges of geospatial data:
 
 | Title | Description |  Link |
 | ----- | ----- | :------: | 
-| **Pydeck (⭐ 11K)** | WebGL2 powered visualization framework | <a href="https://wesmckinney.com/book/" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
-| **Folium (⭐ 6.1K)** | Interactive maps | <a href="https://wesmckinney.com/book/" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
-| **Geopy (⭐ 3.9K)** | Geocoding & reverse geocoding | <a href="https://wesmckinney.com/book/" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
+| **Pydeck (⭐ 11K)** | WebGL2 powered visualization framework | [:octocat:](https://github.com/visgl/deck.gl) |
+| **Folium (⭐ 6.1K)** | Interactive maps | [:octocat:](https://github.com/python-visualization/folium) |
+| **Geopy (⭐ 3.9K)** | Geocoding & reverse geocoding | [:octocat:]() |
 
 
 📚 Geopandas (⭐ 3.5K) 
