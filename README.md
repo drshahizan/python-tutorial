@@ -92,6 +92,7 @@ Learn skills or discover useful resources with these repositories.
 | **Learn Python 3** By: Jerry Pussinen | [:octocat:](https://github.com/jerry-git/learn-python3) |
 | **Machine Learning Bookcamp** By: alexeygrigorev | [:octocat:](https://github.com/alexeygrigorev/mlbookcamp-code) |
 
+### [Unleashing the power of geospatial data: 20 python libraries transforming location-based services & beyond](./geospatial)
 
 
 ### Top 20 Pandas Functions for 80% of Your Data Science Tasks!!!
