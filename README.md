@@ -72,7 +72,7 @@ Python has recently been called the fastest growing programming language. If you
 | **Python Notes/Cheat Sheet**. By: @Mark_Graph | <a href="./cheatsheet/Interview_cheatsheet.pdf" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
 | **Python Cheat Sheet**. By: WebsiteSetup.org | <a href="./cheatsheet/Python_cheat_sheet_1676329023.pdf" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
 | **Matplotlib Cheatsheets**. By: Matplotlib Development Team | <a href="./cheatsheet/Matplotlib%20Cheatsheets.pdf" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
-| **Python: 8 Amazing snippet** | <a href="./cheatsheet/Matplotlib%20Cheatsheets.pdf" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
+| **Python: 8 Amazing snippet** | <a href="./cheatsheet/py_codes.pdf" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
 
 ### :octocat: Amazing Github repos for Data Science! 
 Learn skills or discover useful resources with these repositories.
