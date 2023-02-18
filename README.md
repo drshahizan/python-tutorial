@@ -141,7 +141,8 @@ As Data scientists, we all know how essential it is to have a solid understandin
 
 ### Others
 - [The only Performance Metrics article you will ever need!](https://medium.com/@MLdebanjan/the-only-performance-metrics-article-you-will-ever-need-135cf5e693e2)
-- [ChatGPT: Use Case 1 - Generating Datasets]()
+- [ChatGPT: Use Case 1 - Generating Datasets](https://github.com/drshahizan/python-tutorial/blob/main/cheatsheet/ChatGPT_Use_Case_1_Generating_Datasets.pdf)
+
 ## Dataset
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Portal Data Terbuka Malaysia](https://www.data.gov.my/data/ms_MY/dataset)
