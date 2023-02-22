@@ -25,7 +25,7 @@ The information on this Github is part of the materials for the subject High Per
 <img src="https://github.com/drshahizan/python-tutorial/blob/main/images/python-applications.png"  height="300" />
 </p>
 
-
+## [Markah kerja kursus](https://github.com/drshahizan/python-tutorial/blob/main/images/CM%20HPDP.pdf)
 ## Notes
 
 ### Python practice resources
