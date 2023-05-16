@@ -25,8 +25,8 @@ The information on this Github is part of the materials for the subject High Per
 <img src="https://github.com/drshahizan/python-tutorial/blob/main/images/python-applications.png"  height="300" />
 </p>
 
-## [Markah kerja kursus](https://github.com/drshahizan/python-tutorial/blob/main/images/CM%20HPDP.pdf)
 ## Notes
+- [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners/tree/main)
 
 ### Python practice resources
 You can practice by using online Python interpreters or codepads available online. There’s not much difference between an interpreter and a codepad. An interpreter is more interactive than a codepad, but they both let you execute code and see the results.
