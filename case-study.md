@@ -3,7 +3,7 @@
 <a href="https://github.com/drshahizan/python-tutorial/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/python-tutorial" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/python-tutorial/issues"><img src="https://img.shields.io/github/issues/drshahizan/python-tutorial" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/python-tutorial/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Python_Tutorial?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/python-tutorial)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fpython-tutorial&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 Don't forget to hit the :star: if you like this repo.
 
@@ -17,12 +17,16 @@ The information on this Github is part of the materials for the subject High Per
 # Case Study
 
 ### Contents:
-- [Web Scraping](#web-scraping)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Pandas - Data Processing](#pandas---data-processing)
-- [Alternatives to Pandas for Processing Large Datasets](#-alternatives-to-pandas-for-processing-large-datasets)
-- [Processing Large Datasets: Library Comparison](#-processing-large-datasets-library-comparison)
-- [Project](#-project)
+- [About Us](#about-us)
+- [Case Study](#case-study)
+    - [Contents:](#contents)
+  - [🌟Web Scraping](#web-scraping)
+  - [🌟Exploratory Data Analysis](#exploratory-data-analysis)
+  - [🌟Pandas - Data Processing](#pandas---data-processing)
+  - [🌟 Alternatives to Pandas for Processing Large Datasets](#-alternatives-to-pandas-for-processing-large-datasets)
+  - [🌟 Processing Large Datasets: Library Comparison](#-processing-large-datasets-library-comparison)
+  - [🌟 Project](#-project)
+  - [Contribution 🛠️](#contribution-️)
 
 ## 🌟Web Scraping
 
