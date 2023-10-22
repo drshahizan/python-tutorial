@@ -23,9 +23,8 @@ The information on this Github is part of the materials for the subject High Per
 - [Case Study](https://github.com/drshahizan/python-tutorial/blob/main/case-study.md)
 
 
-
 <p align="center">
-<img src="./images/pythons_roadmaps.gif"  height="700" />
+<img src="../images/pythons_roadmaps.gif"  height="700" />
 </p>
 
 ## Notes
