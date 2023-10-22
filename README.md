@@ -24,7 +24,7 @@ The information on this Github is part of the materials for the subject High Per
 
 
 <p align="center">
-<img src="../images/pythons_roadmaps.gif"  height="700" />
+<img src="/images/pythons_roadmaps.gif"  height="700" />
 </p>
 
 ## Notes
