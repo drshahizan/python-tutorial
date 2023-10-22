@@ -14,10 +14,6 @@ The information on this Github is part of the materials for the subject High Per
 <img src="https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg"  height="200" />
 </p>
 
-<p align="center">
-<img src="https://www.visualcapitalist.com/wp-content/uploads/2019/07/big-data-getting-bigger.jpg"  height="700" />
-</p>
-
 
 ### 📚 Course: High Performance Data Processing 
 - [Python for beginners](https://github.com/drshahizan/python-tutorial)
