@@ -14,6 +14,11 @@ The information on this Github is part of the materials for the subject High Per
 <img src="https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg"  height="200" />
 </p>
 
+<p align="center">
+<img src="https://www.visualcapitalist.com/wp-content/uploads/2019/07/big-data-getting-bigger.jpg"  height="700" />
+</p>
+
+
 ### 📚 Course: High Performance Data Processing 
 - [Python for beginners](https://github.com/drshahizan/python-tutorial)
 - [Web scraping and Python web framework](https://github.com/drshahizan/python-web)
@@ -21,8 +26,10 @@ The information on this Github is part of the materials for the subject High Per
 - [Big data processing](https://github.com/drshahizan/Python-big-data)
 - [Case Study](https://github.com/drshahizan/python-tutorial/blob/main/case-study.md)
 
-<p align="left">
-<img src="https://github.com/drshahizan/python-tutorial/blob/main/images/python-applications.png"  height="300" />
+
+
+<p align="center">
+<img src="./images/pythons_roadmaps.gif"  height="700" />
 </p>
 
 ## Notes
