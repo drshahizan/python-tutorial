@@ -1,5 +1,3 @@
-Here's the provided text in Markdown format with headings and images:
-
 # Google Colab - Introduction
 
 Google is quite aggressive in AI research. Over many years, Google developed AI framework called **TensorFlow** and a development tool called **Colaboratory**. Today TensorFlow is open-sourced and since 2017, Google made Colaboratory free for public use. Colaboratory is now known as Google Colab or simply **Colab**.
