@@ -31,6 +31,9 @@ Information and resources about Google Colaboratory.
 |----: |----------------------------------------------------|------|
 | 1.   | Welcome To Colaboratory     | <a href="https://colab.research.google.com/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 | 2.   | Google Colaboratory               | <a href="https://colab.google/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 3.   | Google Colab – A Step-by-step Guide    | <a href="https://algotrading101.com/learn/google-colab-guide/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 4.   | Google Colab: Everything you Need to Know              | <a href="https://geekflare.com/google-colab/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 5.   | Google Colab Tutorial for Data Scientists     | <a href="https://www.datacamp.com/tutorial/tutorial-google-colab-for-data-scientists" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 
 
 - [Welcome To Colaboratory](https://colab.research.google.com/)
