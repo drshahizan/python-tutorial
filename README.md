@@ -26,6 +26,13 @@ Google Colab, short for Google Colaboratory, is a free cloud-based platform that
 
 ### 1. Notes: 
 Information and resources about Google Colaboratory.
+
+| No. | Content                                             | File |
+|----: |----------------------------------------------------|------|
+| 1.   | Welcome To Colaboratory     | <a href="https://colab.research.google.com/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 2.   | Google Colaboratory               | <a href="https://colab.google/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+
+
 - [Welcome To Colaboratory](https://colab.research.google.com/)
 - [Google Colaboratory](https://colab.google/)
 - [Google Colab – A Step-by-step Guide](https://algotrading101.com/learn/google-colab-guide/)
