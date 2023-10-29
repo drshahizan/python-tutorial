@@ -25,6 +25,7 @@ Python is an ideal **programming language** for beginners due to its **simplicit
 Google Colab, short for Google Colaboratory, is a free cloud-based platform that provides a convenient environment for **machine learning** and **data science** enthusiasts. It offers a **Jupyter Notebook**-like interface, allowing users to run and write code in Python through their web browsers without the need for any setup. Colab comes equipped with access to powerful GPUs, making it ideal for resource-intensive tasks like **deep learning** and large-scale data analysis. With easy sharing options, collaborative features, and integration with Google Drive, it's a versatile tool for individuals and teams to experiment, prototype, and develop projects without the hassle of configuring local environments.
 
 - [Google Colab – A Step-by-step Guide](https://algotrading101.com/learn/google-colab-guide/)
+- [Google Colab: Everything you Need to Know](https://geekflare.com/google-colab/)
 
 ### Python practice resources
 You can practice by using online Python interpreters or codepads available online. There’s not much difference between an interpreter and a codepad. An interpreter is more interactive than a codepad, but they both let you execute code and see the results.
