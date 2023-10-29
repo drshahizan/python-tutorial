@@ -47,13 +47,6 @@ Tutorials and guides on working with Colab notebooks.
 | 4.   | Interactive forms | <a href="https://colab.research.google.com/notebooks/forms.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
 | 5.   | Interactive widgets | <a href="https://colab.research.google.com/notebooks/widgets.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
 
-
-- [Guide to markdown](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
-- [Importing libraries and installing dependencies](https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb)
-- [Saving and loading notebooks in GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)
-- [Interactive forms](https://colab.research.google.com/notebooks/forms.ipynb)
-- [Interactive widgets](https://colab.research.google.com/notebooks/widgets.ipynb)
-
 **Working with data**
 | No. | Content                                             | File |
 |----: |----------------------------------------------------|------|
@@ -61,13 +54,6 @@ Tutorials and guides on working with Colab notebooks.
 | 2.   | Intro to Pandas DataFrame    | <a href="https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/pandas_dataframe_ultraquick_tutorial.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
 | 3.   | Data Preprocessing using pandas | <a href="./preprocessing/Part_1_Missing_Values.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
 | 4.   | Charts: visualising data | <a href="https://colab.research.google.com/notebooks/charts.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
-
-
-- [Loading data: Drive, Sheets and Google Cloud Storage](https://colab.research.google.com/notebooks/io.ipynb)
-- [Charts: visualising data](https://colab.research.google.com/notebooks/charts.ipynb)
-- [Intro to Pandas DataFrame](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/pandas_dataframe_ultraquick_tutorial.ipynb)
-- [Data Preprocessing using pandas](./preprocessing/Part_1_Missing_Values.ipynb)
-
 
 ## Python Practice Resources
 
