@@ -49,10 +49,15 @@ Tutorials and guides on working with Colab notebooks.
 - [Data Preprocessing using pandas](./preprocessing/Part_1_Missing_Values.ipynb)
 
 
-### Python practice resources
-You can practice by using online Python interpreters or codepads available online. There’s not much difference between an interpreter and a codepad. An interpreter is more interactive than a codepad, but they both let you execute code and see the results.
+## Python Practice Resources
 
-Below, you’ll find links to some of the most popular online interpreters and codepads. Give them a go to find your favorite.
+When it comes to practicing Python, you have access to valuable online resources that allow for practical application and code execution. There are two common options available:
+
+- **Online Python Interpreters**: These tools provide an interactive coding experience. They enable you to write and execute Python code in real-time, offering a responsive environment for immediate feedback on your code's functionality.
+
+- **Codepads**: Similar to interpreters, codepads allow you to write and execute Python code. While they may be slightly less interactive compared to interpreters, they still offer the benefit of enabling code execution and result observation.
+
+These resources serve as excellent platforms for hands-on Python practice, accommodating different learning preferences and needs. Whether you prefer the interactivity of an interpreter or the simplicity of a codepad, both options facilitate practical Python skill development. Below, you’ll find links to some of the most popular online interpreters and codepads.
 
 - https://www.python.org/shell/
 
