@@ -26,6 +26,7 @@ Google Colab, short for Google Colaboratory, is a free cloud-based platform that
 
 - [Google Colab – A Step-by-step Guide](https://algotrading101.com/learn/google-colab-guide/)
 - [Google Colab: Everything you Need to Know](https://geekflare.com/google-colab/)
+- [Google Colab Tutorial for Data Scientists](https://www.datacamp.com/tutorial/tutorial-google-colab-for-data-scientists)
 
 ### Python practice resources
 You can practice by using online Python interpreters or codepads available online. There’s not much difference between an interpreter and a codepad. An interpreter is more interactive than a codepad, but they both let you execute code and see the results.
