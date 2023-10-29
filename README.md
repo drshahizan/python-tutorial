@@ -43,6 +43,7 @@ Working with data
 - [Loading data: Drive, Sheets and Google Cloud Storage](https://colab.research.google.com/notebooks/io.ipynb)
 - [Charts: visualising data](https://colab.research.google.com/notebooks/charts.ipynb)
 - [Intro to Pandas DataFrame](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/pandas_dataframe_ultraquick_tutorial.ipynb)
+- [Data Preprocessing using pandas](./preprocessing/Part_1_Missing_Values.ipynb)
 
 ### Python practice resources
 You can practice by using online Python interpreters or codepads available online. There’s not much difference between an interpreter and a codepad. An interpreter is more interactive than a codepad, but they both let you execute code and see the results.
