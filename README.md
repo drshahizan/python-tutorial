@@ -21,12 +21,9 @@ Python is an ideal **programming language** for beginners due to its **simplicit
 <img src="/images/python_roadmaps.gif"  height="800" />
 </p>
 
-
-
-## Notes
-- [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners/tree/main)
-
 ## Google Colab
+Google Colab, short for Google Colaboratory, is a free cloud-based platform that provides a convenient environment for **machine learning** and **data science** enthusiasts. It offers a **Jupyter Notebook**-like interface, allowing users to run and write code in Python through their web browsers without the need for any setup. Colab comes equipped with access to powerful GPUs, making it ideal for resource-intensive tasks like **deep learning** and large-scale data analysis. With easy sharing options, collaborative features, and integration with Google Drive, it's a versatile tool for individuals and teams to experiment, prototype, and develop projects without the hassle of configuring local environments.
+
 - [Google Colab – A Step-by-step Guide](https://algotrading101.com/learn/google-colab-guide/)
 
 ### Python practice resources
