@@ -51,6 +51,17 @@ Tutorials and guides on working with Colab notebooks.
 
 ## Python Practice Resources
 
+### 1. Python history and current status
+
+**Exploring Python's Rich History**
+
+Python, a programming language with a legacy spanning nearly three decades, boasts a storied and influential past. To delve deeper into its historical significance, you can explore two valuable sources:
+
+- The [History of Python Wikipedia page](https://en.wikipedia.org/wiki/History_of_Python): This comprehensive resource provides an in-depth chronicle of Python's evolution, key milestones, and the minds behind its creation.
+
+- The official Python documentation's section on the [history of the software](https://docs.python.org/3.10/tutorial/introduction.html#first-steps) offers an authoritative perspective on Python's journey, including its origins and the principles that have guided its development.
+
+### 2. Online Python Interpreters and Codepads
 When it comes to practicing Python, you have access to valuable online resources that allow for practical application and code execution. There are two common options available:
 
 - **Online Python Interpreters**: These tools provide an interactive coding experience. They enable you to write and execute Python code in real-time, offering a responsive environment for immediate feedback on your code's functionality.
@@ -70,19 +81,6 @@ These resources serve as excellent platforms for hands-on Python practice, accom
 - https://rextester.com/l/python3_online_compiler
 
 - https://trinket.io/python3
-
-### Python history and current status
-Python was released almost 30 years ago and has a rich history. You can read more about it on the History of Python Wikipedia page or in the section on the history of the software from the official Python documentation.
-
-Python has recently been called the fastest growing programming language. If you're interested in why this is and how it’s measured, you can find out more in these articles:
-
-- [The Incredible Growth of Python (Stack Overflow)](https://stackoverflow.blog/2017/09/06/incredible-growth-python/)
-
-- [Why is Python Growing So Quickly - Future Trends (Netguru)](https://www.netguru.com/blog/future-of-python)
-
-- [By the numbers: Python community trends in 2017/2018 (Opensource.com)](https://opensource.com/article/18/5/numbers-python-community-trends)
-
-- [Developer Survey Results 2018 (Stack Overflow)](https://insights.stackoverflow.com/survey/2018#technology)
 
 ### Python: E-book
 | Title |  Link |
