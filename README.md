@@ -88,21 +88,17 @@ These resources serve as excellent platforms for hands-on Python practice, accom
 
 - https://trinket.io/python3
 
-### [Python: Others - Expanding Your Python Toolkit](./materials/python.md)
-
-Certainly, here's the description with meaningful icons:
-
-📘 **Python: Others - Expanding Your Python Toolkit**
+### Python: Others - Expanding Your Python Toolkit
 
 In addition to its core documentation and resources, the world of Python offers a treasure trove of supplementary materials that can greatly enhance your Python experience:
 
-1. 📚 **E-books**: Explore a plethora of Python e-books, each catering to different skill levels and domains of interest. Whether you're a novice seeking introductory texts or an expert diving into specialized areas, Python e-books are valuable resources to deepen your knowledge.
+1. 📚 [**E-books**](./materials/python.md#python-e-book): Explore a plethora of Python e-books, each catering to different skill levels and domains of interest. Whether you're a novice seeking introductory texts or an expert diving into specialized areas, Python e-books are valuable resources to deepen your knowledge.
 
-2. 📋 **Cheatsheets**: Python cheatsheets are concise reference guides that condense complex Python concepts, syntax, and libraries into easy-to-read formats. They serve as quick references for both beginners and experienced developers, helping streamline coding and problem-solving.
+2. 📋 [**Cheatsheets**](./materials/python.md#python-cheatsheet): Python cheatsheets are concise reference guides that condense complex Python concepts, syntax, and libraries into easy-to-read formats. They serve as quick references for both beginners and experienced developers, helping streamline coding and problem-solving.
 
-3. 🌟 **Amazing GitHub Repositories for Data Science**: GitHub is a goldmine for data science enthusiasts. Numerous repositories contain valuable datasets, code samples, and machine learning models. These repositories facilitate hands-on learning, collaboration, and access to real-world data for research and projects.
+3. 🌟 [**Amazing GitHub Repositories for Data Science**](./materials/python.md#octocat-amazing-github-repos-for-data-science): GitHub is a goldmine for data science enthusiasts. Numerous repositories contain valuable datasets, code samples, and machine learning models. These repositories facilitate hands-on learning, collaboration, and access to real-world data for research and projects.
 
-4. 📦 **Datasets**: Accessing high-quality datasets is crucial for data analysis and machine learning. Python offers numerous sources for datasets, covering diverse domains such as finance, healthcare, and natural language processing. These datasets provide the raw materials for developing and testing data-driven applications.
+4. 📦 [**Datasets**](./materials/python.md#dataset): Accessing high-quality datasets is crucial for data analysis and machine learning. Python offers numerous sources for datasets, covering diverse domains such as finance, healthcare, and natural language processing. These datasets provide the raw materials for developing and testing data-driven applications.
 
 Exploring these Python resources will enable you to expand your skill set, deepen your understanding, and access valuable data for a wide range of applications. Whether you're pursuing knowledge, quick references, or real-world data for projects, Python's wealth of supplementary materials has you covered.
 
