@@ -55,6 +55,14 @@ Tutorials and guides on working with Colab notebooks.
 - [Interactive widgets](https://colab.research.google.com/notebooks/widgets.ipynb)
 
 **Working with data**
+| No. | Content                                             | File |
+|----: |----------------------------------------------------|------|
+| 1.   | Loading data: Drive, Sheets and Google Cloud Storage    | <a href="https://colab.research.google.com/notebooks/io.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
+| 2.   | Intro to Pandas DataFrame    | <a href="https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/pandas_dataframe_ultraquick_tutorial.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
+| 3.   | Data Preprocessing using pandas | <a href="./preprocessing/Part_1_Missing_Values.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
+| 4.   | Charts: visualising data | <a href="https://colab.research.google.com/notebooks/charts.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
+
+
 - [Loading data: Drive, Sheets and Google Cloud Storage](https://colab.research.google.com/notebooks/io.ipynb)
 - [Charts: visualising data](https://colab.research.google.com/notebooks/charts.ipynb)
 - [Intro to Pandas DataFrame](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/pandas_dataframe_ultraquick_tutorial.ipynb)
