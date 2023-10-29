@@ -43,6 +43,10 @@ Learn skills or discover useful resources with these repositories.
 | **Data Science Best Resources.** By: Tirthajyoti Sarkar | [:octocat:](https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md) |
 | **Learn Python 3** By: Jerry Pussinen | [:octocat:](https://github.com/jerry-git/learn-python3) |
 | **Machine Learning Bookcamp** By: alexeygrigorev | [:octocat:](https://github.com/alexeygrigorev/mlbookcamp-code) |
+| Unleashing the power of geospatial data: 20 python libraries transforming location-based services & beyond | <a href="../geospatial" ><img src="../images/gift-24.svg" width="20px" height="20px" ></a>|
+| Top 20 Pandas Functions for 80% of Your Data Science Tasks| <a href="https://github.com/drshahizan/python-tutorial/blob/main/images/20_Pandas_Functions.pdf" ><img src="../images/gift-24.svg" width="20px" height="20px" ></a> |
+
+
 
 ## [Unleashing the power of geospatial data: 20 python libraries transforming location-based services & beyond](../geospatial)
 
