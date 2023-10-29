@@ -24,7 +24,7 @@ Python is an ideal **programming language** for beginners due to its **simplicit
 ## Google Colab
 Google Colab, short for Google Colaboratory, is a free cloud-based platform that provides a convenient environment for **machine learning** and **data science** enthusiasts. It offers a **Jupyter Notebook**-like interface, allowing users to run and write code in Python through their web browsers without the need for any setup. Colab comes equipped with access to powerful GPUs, making it ideal for resource-intensive tasks like **deep learning** and large-scale data analysis. With easy sharing options, collaborative features, and integration with Google Drive, it's a versatile tool for individuals and teams to experiment, prototype, and develop projects without the hassle of configuring local environments.
 
-### 1. Notes: 
+### 1. Notes
 Information and resources about Google Colaboratory.
 
 | No. | Content                                             | File |
@@ -35,7 +35,7 @@ Information and resources about Google Colaboratory.
 | 4.   | Google Colab: Everything you Need to Know | <a href="https://geekflare.com/google-colab/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 | 5.   | Google Colab Tutorial for Data Scientists | <a href="https://www.datacamp.com/tutorial/tutorial-google-colab-for-data-scientists" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 
-### 2. Tutorial: 
+### 2. Tutorial
 Tutorials and guides on working with Colab notebooks. 
 
 **Working with notebooks in Colab**
@@ -55,7 +55,14 @@ Tutorials and guides on working with Colab notebooks.
 | 3.   | Data Preprocessing using pandas | <a href="./preprocessing/Part_1_Missing_Values.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
 | 4.   | Charts: visualising data | <a href="https://colab.research.google.com/notebooks/charts.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
 
-### 3. Lab: 
+### 3. Lab
+| No. | Content                                             | File |
+|----: |----------------------------------------------------|------|
+| 1.   | Loading data: Drive, Sheets and Google Cloud Storage    | <a href="./basic/External_data_Local_Files%2C_Drive%2C_Sheets_and_Cloud_Storage.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
+| 2.   | Loading data: Drive, Sheets and Google Cloud Storage    | <a href="./basic/External_data_Local_Files%2C_Drive%2C_Sheets_and_Cloud_Storage.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
+| 3.   | Loading data: Drive, Sheets and Google Cloud Storage    | <a href="./basic/External_data_Local_Files%2C_Drive%2C_Sheets_and_Cloud_Storage.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
+| 4.   | Loading data: Drive, Sheets and Google Cloud Storage    | <a href="./basic/External_data_Local_Files%2C_Drive%2C_Sheets_and_Cloud_Storage.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
+
 
 ## Python Practice Resources
 
