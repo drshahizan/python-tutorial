@@ -7,24 +7,21 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# About Us
+## About Us
 The information on this Github is part of the materials for the subject High Performance Data Processing (SECP3133). This folder contains general big data information as well as big data case studies using Malaysian datasets. This case study was created by a [Bachelor of Computer Science (Data Engineering)](https://comp.utm.my/bachelor-of-computer-science-data-engineering/), Universiti Teknologi Malaysia student.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/drshahizan/python-tutorial/main/images/student23241.webp"  height="400" />
 </p>
 
-
-### 📚 Course: High Performance Data Processing 
-- [Python for beginners](https://github.com/drshahizan/python-tutorial)
-- [Web scraping and Python web framework](https://github.com/drshahizan/python-web)
-- [Exploratory data analysis](https://github.com/drshahizan/Python_EDA)
-- [Big data processing](https://github.com/drshahizan/Python-big-data)
-- [Case Study](https://github.com/drshahizan/python-tutorial/blob/main/case-study.md)
+# Python for beginners
+Python is an ideal **programming language** for beginners due to its **simplicity** and **readability**. It offers a gentle **learning curve**, making it accessible for those new to **coding**. Python's versatile **syntax** allows for easy development of a wide range of **applications**, from **web development** to **data analysis** and **automation**. With a rich ecosystem of **libraries** and a supportive **community**, beginners can quickly find **resources** and **assistance**. Whether you're looking to kickstart your **coding journey** or expand your skill set, Python provides a solid **foundation** for learners of all levels.
 
 <p align="center">
 <img src="/images/python_roadmaps.gif"  height="800" />
 </p>
+
+
 
 ## Notes
 - [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners/tree/main)
