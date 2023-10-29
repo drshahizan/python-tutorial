@@ -45,6 +45,16 @@ Working with data
 - [Intro to Pandas DataFrame](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/pandas_dataframe_ultraquick_tutorial.ipynb)
 - [Data Preprocessing using pandas](./preprocessing/Part_1_Missing_Values.ipynb)
 
+| **Topic**                                   | **Description**                                            | **Links** |
+|--------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Introduction to Colaboratory**               | Information and resources about Google Colaboratory.     | - [Welcome To Colaboratory](https://colab.research.google.com/)<br> - [Google Colaboratory](https://colab.google/)<br>- [Google Colab – A Step-by-step Guide](https://algotrading101.com/learn/google-colab-guide/)<br>- [Google Colab: Everything you Need to Know](https://geekflare.com/google-colab/)<br>- [Google Colab Tutorial for Data Scientists](https://www.datacamp.com/tutorial/tutorial-google-colab-for-data-scientists) |
+| **Working with Notebooks in Colab**            | Tutorials and guides on working with Colab notebooks.     | - [Guide to Markdown](https://colab.research.google.com/notebooks/markdown_guide.ipynb)<br>- [Importing Libraries and Installing Dependencies](https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb)<br>- [Saving and Loading Notebooks in GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)<br>- [Interactive Forms](https://colab.research.google.com/notebooks/forms.ipynb)<br>- [Interactive Widgets](https://colab.research.google.com/notebooks/widgets.ipynb) |
+| **Working with Data**                          | Resources for handling and visualizing data in Colab.     | - [Loading Data: Drive, Sheets, and Google Cloud Storage](https://colab.research.google.com/notebooks/io.ipynb)<br>- [Charts: Visualizing Data](https://colab.research.google.com/notebooks/charts.ipynb)<br>- [Intro to Pandas DataFrame](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/pandas_dataframe_ultraquick_tutorial.ipynb)<br>- [Data Preprocessing using Pandas](./preprocessing/Part_1_Missing_Values.ipynb) |
+
+
+
+This table provides a more meaningful and organized presentation of the information with clear categories and clickable links.
+
 ### Python practice resources
 You can practice by using online Python interpreters or codepads available online. There’s not much difference between an interpreter and a codepad. An interpreter is more interactive than a codepad, but they both let you execute code and see the results.
 
