@@ -8,46 +8,15 @@
 Don't forget to hit the :star: if you like this repo.
 
 
-## Python Practice Resources
+# Python Practice Resources
 
-### 1. Python history and current status
-
-**Exploring Python's Rich History**
-
-Python, a programming language with a legacy spanning nearly three decades, boasts a storied and influential past. To delve deeper into its historical significance, you can explore two valuable sources:
-
-- The [History of Python Wikipedia page](https://en.wikipedia.org/wiki/History_of_Python): This comprehensive resource provides an in-depth chronicle of Python's evolution, key milestones, and the minds behind its creation.
-
-- The official Python documentation's section on the [history of the software](https://docs.python.org/3.10/tutorial/introduction.html#first-steps) offers an authoritative perspective on Python's journey, including its origins and the principles that have guided its development.
-
-### 2. Online Python Interpreters and Codepads
-When it comes to practicing Python, you have access to valuable online resources that allow for practical application and code execution. There are two common options available:
-
-- **Online Python Interpreters**: These tools provide an interactive coding experience. They enable you to write and execute Python code in real-time, offering a responsive environment for immediate feedback on your code's functionality.
-
-- **Codepads**: Similar to interpreters, codepads allow you to write and execute Python code. While they may be slightly less interactive compared to interpreters, they still offer the benefit of enabling code execution and result observation.
-
-These resources serve as excellent platforms for hands-on Python practice, accommodating different learning preferences and needs. Whether you prefer the interactivity of an interpreter or the simplicity of a codepad, both options facilitate practical Python skill development. Below, you’ll find links to some of the most popular online interpreters and codepads.
-
-- https://www.python.org/shell/
-
-- https://www.onlinegdb.com/online_python_interpreter
-
-- https://repl.it/languages/python3
-
-- https://www.tutorialspoint.com/execute_python3_online.php
-
-- https://rextester.com/l/python3_online_compiler
-
-- https://trinket.io/python3
-
-### Python: E-book
+## Python: E-book
 | Title |  Link |
 | ----- | :------: | 
 | **Python for Data Analysis, 3E**. By: Wes McKinney | <a href="https://wesmckinney.com/book/" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
 | **DevFreeBooks** | <a href="https://devfreebooks.github.io/python/" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
 
-### Python: Cheatsheet
+## Python: Cheatsheet
 | Title |  Link |
 | ----- | :------: | 
 | **Python For Data Science: Basic, Jupyter Notebook, NumPy, SciPy - Linear Algebra, Pandas, Scikit-Learn, Matplotlib, Seaborn, Bokeh**. By: DataCamp | <a href="./cheatsheet/python_for_data_science.pdf" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
@@ -57,7 +26,7 @@ These resources serve as excellent platforms for hands-on Python practice, accom
 | **Matplotlib Cheatsheets**. By: Matplotlib Development Team | <a href="./cheatsheet/Matplotlib%20Cheatsheets.pdf" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
 | **Python: 8 Amazing snippet** | <a href="./cheatsheet/py_codes.pdf" ><img src="./images/gift-24.svg" width="20px" height="20px" ></a> |
 
-### :octocat: Amazing Github repos for Data Science! 
+## :octocat: Amazing Github repos for Data Science! 
 Learn skills or discover useful resources with these repositories.
 
 | Title |  GitHub |
@@ -75,10 +44,10 @@ Learn skills or discover useful resources with these repositories.
 | **Learn Python 3** By: Jerry Pussinen | [:octocat:](https://github.com/jerry-git/learn-python3) |
 | **Machine Learning Bookcamp** By: alexeygrigorev | [:octocat:](https://github.com/alexeygrigorev/mlbookcamp-code) |
 
-### [Unleashing the power of geospatial data: 20 python libraries transforming location-based services & beyond](./geospatial)
+## [Unleashing the power of geospatial data: 20 python libraries transforming location-based services & beyond](./geospatial)
 
 
-### Top 20 Pandas Functions for 80% of Your Data Science Tasks!!!
+## Top 20 Pandas Functions for 80% of Your Data Science Tasks!!!
 
 As Data scientists, we all know how essential it is to have a solid understanding of pandas - Python's go-to library for data manipulation and analysis. [Amazing article](https://github.com/drshahizan/python-tutorial/blob/main/images/20_Pandas_Functions.pdf).
 
@@ -122,7 +91,7 @@ As Data scientists, we all know how essential it is to have a solid understandin
 
 🎯 df.to_csv()
 
-### Others
+## Others
 - [The only Performance Metrics article you will ever need!](https://medium.com/@MLdebanjan/the-only-performance-metrics-article-you-will-ever-need-135cf5e693e2)
 - [Analysing Data with ChatGPT (Data Analysis and ML)](https://youtu.be/Dw0irOIJYnA)
 - [ChatGPT: Use Case 1 - Generating Datasets](https://github.com/drshahizan/python-tutorial/blob/main/cheatsheet/ChatGPT_Use_Case_1_Generating_Datasets.pdf)
