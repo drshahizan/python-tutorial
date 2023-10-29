@@ -55,8 +55,6 @@ Tutorials and guides on working with Colab notebooks.
 | 3.   | Data Preprocessing using pandas | <a href="./preprocessing/Part_1_Missing_Values.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
 | 4.   | Charts: visualising data | <a href="https://colab.research.google.com/notebooks/charts.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
 
-
-basic/External_data_Local_Files%2C_Drive%2C_Sheets_and_Cloud_Storage.ipynb
 ## Python Practice Resources
 
 ### 1. Python history and current status
