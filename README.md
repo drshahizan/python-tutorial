@@ -50,7 +50,7 @@ Tutorials and guides on working with Colab notebooks.
 **Working with data**
 | No. | Content                                             | File |
 |----: |----------------------------------------------------|------|
-| 1.   | Loading data: Drive, Sheets and Google Cloud Storage    | <a href="../basic/External_data_Local_Files%2C_Drive%2C_Sheets_and_Cloud_Storage.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
+| 1.   | Loading data: Drive, Sheets and Google Cloud Storage    | <a href="./basic/External_data_Local_Files%2C_Drive%2C_Sheets_and_Cloud_Storage.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
 | 2.   | Intro to Pandas DataFrame    | <a href="https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/pandas_dataframe_ultraquick_tutorial.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
 | 3.   | Data Preprocessing using pandas | <a href="./preprocessing/Part_1_Missing_Values.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
 | 4.   | Charts: visualising data | <a href="https://colab.research.google.com/notebooks/charts.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
