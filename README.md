@@ -41,11 +41,11 @@ Tutorials and guides on working with Colab notebooks.
 **Working with notebooks in Colab**
 | No. | Content                                             | File |
 |----: |----------------------------------------------------|------|
-| 1.   | Guide to markdown     | <a href="https://colab.research.google.com/notebooks/markdown_guide.ipynb" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
-| 2.   | Importing libraries and installing dependencies               | <a href="https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
-| 3.   | Saving and loading notebooks in GitHub    | <a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
-| 4.   | Interactive forms | <a href="https://colab.research.google.com/notebooks/forms.ipynb" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
-| 5.   | Interactive widgets | <a href="https://colab.research.google.com/notebooks/widgets.ipynb" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 1.   | Guide to markdown     | <a href="https://colab.research.google.com/notebooks/markdown_guide.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
+| 2.   | Importing libraries and installing dependencies               | <a href="https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
+| 3.   | Saving and loading notebooks in GitHub    | <a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
+| 4.   | Interactive forms | <a href="https://colab.research.google.com/notebooks/forms.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
+| 5.   | Interactive widgets | <a href="https://colab.research.google.com/notebooks/widgets.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
 
 
 - [Guide to markdown](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
