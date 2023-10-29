@@ -32,20 +32,22 @@ Information and resources about Google Colaboratory.
 | 1.   | Welcome To Colaboratory     | <a href="https://colab.research.google.com/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 | 2.   | Google Colaboratory               | <a href="https://colab.google/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 | 3.   | Google Colab – A Step-by-step Guide    | <a href="https://algotrading101.com/learn/google-colab-guide/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
-| 4.   | Google Colab: Everything you Need to Know              | <a href="https://geekflare.com/google-colab/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
-| 5.   | Google Colab Tutorial for Data Scientists     | <a href="https://www.datacamp.com/tutorial/tutorial-google-colab-for-data-scientists" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
-
-
-- [Welcome To Colaboratory](https://colab.research.google.com/)
-- [Google Colaboratory](https://colab.google/)
-- [Google Colab – A Step-by-step Guide](https://algotrading101.com/learn/google-colab-guide/)
-- [Google Colab: Everything you Need to Know](https://geekflare.com/google-colab/)
-- [Google Colab Tutorial for Data Scientists](https://www.datacamp.com/tutorial/tutorial-google-colab-for-data-scientists)
+| 4.   | Google Colab: Everything you Need to Know | <a href="https://geekflare.com/google-colab/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 5.   | Google Colab Tutorial for Data Scientists | <a href="https://www.datacamp.com/tutorial/tutorial-google-colab-for-data-scientists" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 
 ### 2. Tutorial: 
 Tutorials and guides on working with Colab notebooks. 
 
 **Working with notebooks in Colab**
+| No. | Content                                             | File |
+|----: |----------------------------------------------------|------|
+| 1.   | Guide to markdown     | <a href="https://colab.research.google.com/notebooks/markdown_guide.ipynb" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 2.   | Importing libraries and installing dependencies               | <a href="https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 3.   | Saving and loading notebooks in GitHub    | <a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 4.   | Interactive forms | <a href="https://colab.research.google.com/notebooks/forms.ipynb" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 5.   | Interactive widgets | <a href="https://colab.research.google.com/notebooks/widgets.ipynb" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+
+
 - [Guide to markdown](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
 - [Importing libraries and installing dependencies](https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb)
 - [Saving and loading notebooks in GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)
