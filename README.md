@@ -58,10 +58,10 @@ Tutorials and guides on working with Colab notebooks.
 ### 3. Lab
 | No. | Content                                             | File |
 |----: |----------------------------------------------------|------|
-| 1.   | Loading data: Drive, Sheets and Google Cloud Storage    | <a href="./basic/External_data_Local_Files%2C_Drive%2C_Sheets_and_Cloud_Storage.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
-| 2.   | Loading data: Drive, Sheets and Google Cloud Storage    | <a href="./basic/External_data_Local_Files%2C_Drive%2C_Sheets_and_Cloud_Storage.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
-| 3.   | Loading data: Drive, Sheets and Google Cloud Storage    | <a href="./basic/External_data_Local_Files%2C_Drive%2C_Sheets_and_Cloud_Storage.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
-| 4.   | Loading data: Drive, Sheets and Google Cloud Storage    | <a href="./basic/External_data_Local_Files%2C_Drive%2C_Sheets_and_Cloud_Storage.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
+| 1.   | Python Tutorial With Google Colab    | <a href="./basic/External_data_Local_Files%2C_Drive%2C_Sheets_and_Cloud_Storage.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
+| 2.   | Mounting    | <a href="./basic/External_data_Local_Files%2C_Drive%2C_Sheets_and_Cloud_Storage.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
+| 3.   | ML in Cybersecurity: Tutorial I    | <a href="./basic/External_data_Local_Files%2C_Drive%2C_Sheets_and_Cloud_Storage.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
+| 4.   | Intro to Modeling    | <a href="./basic/External_data_Local_Files%2C_Drive%2C_Sheets_and_Cloud_Storage.ipynb" ><img src="./images/python.png" width="24px" height="24px" ></a> |
 
 
 ## Python Practice Resources
