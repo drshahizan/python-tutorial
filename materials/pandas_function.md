@@ -13,8 +13,8 @@ In the dynamic field of data science, one's prowess with Python's **pandas libra
 
 As Data scientists, we all know how essential it is to have a solid understanding of pandas - Python's go-to library for data manipulation and analysis. [Amazing article](https://github.com/drshahizan/python-tutorial/blob/main/images/20_Pandas_Functions.pdf).
 
-| Column No | Function/Method | Description | Syntax |
-| --- | --- | --- | --- |
+|  No | Function/Method | Description | Syntax |
+| ---: | --- | --- | --- |
 | 1 | `pd.read_csv()` | Reads data from a CSV file and creates a DataFrame. | `pd.read_csv('file.csv')` |
 | 2 | `df.describe()` | Generates summary statistics for numerical columns. | `df.describe()` |
 | 3 | `df.info()` | Provides essential information about the DataFrame. | `df.info()` |
