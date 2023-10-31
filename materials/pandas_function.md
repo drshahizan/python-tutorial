@@ -36,8 +36,6 @@ As Data scientists, we all know how essential it is to have a solid understandin
 | 19 | `df.rename()` | Renames columns or the index of the DataFrame. | `df.rename(columns={'old_col': 'new_col'})` |
 | 20 | `df.to_csv()` | Writes the DataFrame to a CSV file for saving data. | `df.to_csv('output.csv', index=False)` |
 
-This table includes the "Syntax" column, which provides an example of how to use each function or method.
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/python-tutorial/issues) for any improvements, suggestions or errors in the content.
 
