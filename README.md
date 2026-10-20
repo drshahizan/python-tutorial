@@ -96,7 +96,7 @@ These resources serve as excellent platforms for hands-on Python practice, accom
 
 - https://rextester.com/l/python3_online_compiler
 
-- https://trinket.io/python3
+- https://coddy.tech/playground/python
 
 ### Python: Others - Expanding Your Python Toolkit
 
